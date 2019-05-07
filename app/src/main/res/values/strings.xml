@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RutaPass</string>
+    <string name="user">Usuario</string>
+    <string name="FirstName">Nombre</string>
+    <string name="LastName">Apellidos</string>
+    <string name="email">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="Confirm">Confirmar Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="balance">Saldo</string>
+</resources>
